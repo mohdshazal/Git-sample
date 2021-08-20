@@ -3,3 +3,5 @@ How Are you New branch
 Master branch
 
 Master conflict
+feature confilct
+
